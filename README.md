@@ -1,11 +1,8 @@
-## Hi there 👋
+## Welcome to my GitHub page! 👋
 
-<!--
-**mayia/mayia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seasoned evaluator with two decades of experience in measuring, evaluating and improving social programmes in low income countries, now harnessing data science to amplify insights and drive greater impact. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
