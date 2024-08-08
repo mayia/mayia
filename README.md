@@ -1,6 +1,7 @@
 ## Welcome to my GitHub page! 👋
 
-Seasoned evaluator with two decades of experience measuring, evaluating and improving health and social programmes in low and middle income countries--now leveraging data science to amplify insights and drive greater impact. 
+Seasoned evaluator with extensive experience measuring, evaluating and improving health and social programmes in low and middle income countries--now leveraging data science to amplify insights and drive greater impact. 
+
 
 * [LinkedIn profile](https://www.linkedin.com/in/yashinlink/)
 
